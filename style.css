@@ -1,0 +1,12 @@
+h1 , ul {
+    font-family: 'Hachi Maru Pop', cursive;
+    list-style-type: square;
+    color:#00e1ff;
+    border-bottom:25px solid yellow;
+    text-align: center;
+    background-color:red;
+}
+body{
+    font-size:200%;
+    background-color:greenyellow;
+}
